@@ -6,8 +6,8 @@ ohana-robotの上面はラップトップや箱などのものが置ける仕様
 <div style="display: flex; justify-content: space-between;">
   <img src="img/IMG_3602.HEIC" alt="画像1" style="width: 30%;">
   <img src="img/IMG_3556 2.HEIC" alt="画像2" style="width: 30%;">
-  <video controls style="width: 30%;">
+<!--   <video controls style="width: 30%;">
       <source src="img/IMG_2980.MOV" type="video/mov">
       Your browser does not support the video tag.
-  </video>
+  </video> -->
 </div>
