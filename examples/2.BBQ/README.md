@@ -5,12 +5,12 @@ ohana-robotの上面はラップトップや箱などのものが置ける仕様
 
 <div style="display: flex; justify-content: space-between; align-items: stretch; height: 200px;">
   <div style="flex: 1; padding: 5px; display: flex;">
-    <img src="image1.gif" alt="画像1" style="width: 100%; height: auto; object-fit: cover;">
+    <img src="img/image1.gif" alt="画像1" style="width: 100%; height: auto; object-fit: cover;">
   </div>
   <div style="flex: 1; padding: 5px; display: flex;">
-    <img src="image2.gif" alt="画像2" style="width: 100%; height: auto; object-fit: cover;">
+    <img src="img/image2.gif" alt="画像2" style="width: 100%; height: auto; object-fit: cover;">
   </div>
   <div style="flex: 1; padding: 5px; display: flex;">
-    <img src="video.gif" alt="動画" style="width: 100%; height: auto; object-fit: cover;">
+    <img src="img/video.gif" alt="動画" style="width: 100%; height: auto; object-fit: cover;">
   </div>
 </div>
