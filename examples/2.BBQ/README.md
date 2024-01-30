@@ -4,17 +4,10 @@ ohana-robotの上面はラップトップや箱などのものが置ける仕様
 もし面白い組み合わせが思いついたら，communityで共有してほしい．
 
 <div style="display: flex; justify-content: space-between;">
-<<<<<<< HEAD
-  <img src="img/IMG_3602.HEIC" alt="画像1" style="width: 30%;">
-  <img src="img/IMG_3556 2.HEIC" alt="画像2" style="width: 30%;">
-<!--   <video controls style="width: 30%;">
-      <source src="img/IMG_2980.MOV" type="video/mov">
-=======
   <img src="img/IMG_3602.png" alt="画像1" style="width: 30%;">
   <img src="img/IMG_3556.png" alt="画像2" style="width: 30%;">
   <video controls style="width: 30%;">
       <source src="img/IMG_2980.mp4" type="video/mp4">
->>>>>>> 304fe6a (-)
       Your browser does not support the video tag.
-  </video> -->
+  </video>
 </div>
