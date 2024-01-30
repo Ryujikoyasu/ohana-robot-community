@@ -3,8 +3,14 @@ ohana-robotの上面はラップトップや箱などのものが置ける仕様
 音楽も，スピーカを置いてストリーミング音楽を聴いても良いし，シンセサイザやキーボードや打楽器などを置いて生演奏しても良いだろう．
 もし面白い組み合わせが思いついたら，communityで共有してほしい．
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
-  <img src="img/IMG_3602.png" alt="画像1" style="flex: 1; width: 30%; height: auto; max-height: 200px;">
-  <img src="img/IMG_3556.png" alt="画像2" style="flex: 1; width: 30%; height: auto; max-height: 200px;">
-  <img src="img/IMG_2980.gif" alt="動画" style="flex: 1; width: 30%; height: auto; max-height: 200px;">
+<div style="display: flex; justify-content: space-between; align-items: stretch; height: 200px;">
+  <div style="flex: 1; padding: 5px; display: flex;">
+    <img src="image1.gif" alt="画像1" style="width: 100%; height: auto; object-fit: cover;">
+  </div>
+  <div style="flex: 1; padding: 5px; display: flex;">
+    <img src="image2.gif" alt="画像2" style="width: 100%; height: auto; object-fit: cover;">
+  </div>
+  <div style="flex: 1; padding: 5px; display: flex;">
+    <img src="video.gif" alt="動画" style="width: 100%; height: auto; object-fit: cover;">
+  </div>
 </div>
