@@ -29,7 +29,9 @@ Grounding DINOを用いてできる．カラスだけとか，種が限定され
 あるいはサンプリングしておいて，それらを[SEQTRAK](https://jp.yamaha.com/products/music_production/music-production-studios/seqtrak/index.html) 
 で無限パターンのリズムを作る．
 
-[狂気のサウンド](wolf_crow.mp3)が出来た．
+<img src="img/seqtrak.jpg" alt="seqtrak" style="width: 40%; height: auto; max-height: 200px;">
+
+狂気のサウンド(wolf_crow.mp3)が出来た．
 Youtubeでも，[鳥獣Gigaサウンド](https://www.youtube.com/watch?v=A_aw-e6PrAI)として公開している．
 
 
@@ -46,6 +48,6 @@ Youtubeでも，[鳥獣Gigaサウンド](https://www.youtube.com/watch?v=A_aw-e6
 
 
 
-### 実験
+## 実験
 
 動物が慣れるまで有効．
