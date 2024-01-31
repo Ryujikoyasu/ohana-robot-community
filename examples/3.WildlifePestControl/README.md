@@ -24,7 +24,7 @@ Grounding DINOを用いてできる．カラスだけとか，種が限定され
 
 ## 忌避音サンプリング
 
-カラスの悲鳴や犬・狼の鳴き声，人間の声，銃声など，Youtubeで [カラスの嫌がる音声](https://www.youtube.com/watch?v=V8zPwXS5NMw)と調べるといくつか出てくる．
+カラスの悲鳴や犬・狼の鳴き声，人間の声，銃声など，Youtubeで調べるといくつか出てくる．
 これをループ再生しても良い．  
 あるいはサンプリングしておいて，それらを[SEQTRAK](https://jp.yamaha.com/products/music_production/music-production-studios/seqtrak/index.html) 
 で無限パターンのリズムを作る．
