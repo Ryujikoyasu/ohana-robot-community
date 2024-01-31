@@ -30,6 +30,7 @@ Grounding DINOを用いてできる．カラスだけとか，種が限定され
 で無限パターンのリズムを作る．
 
 [狂気のサウンド](wolf_crow.mp3)が出来た．
+Youtubeでも，[鳥獣Gigaサウンド](https://www.youtube.com/watch?v=A_aw-e6PrAI)として公開している．
 
 
 
