@@ -8,3 +8,5 @@ ohana-robotは，使う人がちょっとした工夫で簡単なカスタマイ
 事例2. [音楽とライトでBBQを盛り上げたい](examples/2.BBQ/README.md)
 
 事例3. [鳥獣害対策をしたい](examples/3.WildlifePestControl/README.md)
+
+事例4. [畑でビールを飲みたい](examples/4.Beer/README.md)
