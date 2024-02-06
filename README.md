@@ -10,3 +10,6 @@ ohana-robotは，使う人がちょっとした工夫で簡単なカスタマイ
 事例3. [鳥獣害対策をしたい](examples/3.WildlifePestControl/README.md)
 
 事例4. [畑でビールを飲みたい](examples/4.Beer/README.md)
+
+事例5. [植物解説・実況ロボと散歩したい](examples/5.PlantWalking/README.md)
+
